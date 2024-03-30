@@ -1,0 +1,20 @@
+
+vertexlitgeneric
+{
+
+	$basetexture models/v_models/weapons/rifle/ak47
+
+	$phong 1
+	// $phongboost 10
+	$phongalbedotint 1
+	// $phongfresnelranges "[ 0.1 0.4 1 ]"
+	$basemapalphaphongmask 1
+	$phongexponenttexture models/v_models/weapons/rifle/ak47_exp
+
+	// $envmap env_cubemap
+	// $envmapfresnel 1
+	// $envmapfresnelminmaxexp "[ 0 5 0.4 ]"
+	// $envmaptint "[ 0.5 0.5 0.5 ]"
+	// $basealphaenvmapmask 1
+
+}
